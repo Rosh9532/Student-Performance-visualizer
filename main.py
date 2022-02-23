@@ -3,7 +3,7 @@ from tkinter.messagebox import *
 import matplotlib.pyplot as plt
 
 root = Tk()
-root.geometry("500x500+400+400")
+root.geometry("700x500+600+600")
 root.title("Performance visualizer")
 
 def f1():
